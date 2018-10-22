@@ -1,120 +1,25 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Rich's Portfolio</title>
-<meta name="generator" content="Bluefish 2.2.10" >
+<title>Visual Novel Base</title>
 <meta name="author" content="rich" >
-<meta name="date" content="2018-10-20T23:56:38+0200" >
+<meta name="date" content="2018-10-22T15:43:39+0200" >
 <meta name="copyright" content="">
 <meta name="keywords" content="">
 <meta name="description" content="">
 <meta name="ROBOTS" content="NOINDEX, NOFOLLOW">
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, height=device-height initial-scale=1">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 <link rel="stylesheet" href="style.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 </head>
 <body>
 
-<header>
-<div class="container">
-<div>
-    <img src="radsuttonLogoFinal.png" class="img-responsive" id="logo" alt="radsutton's portfolio">
+<img src="#" alt="Foreground Image" class="foreground_Img">
+<div class="txt_Container">
 </div>
-</div>
-
-<nav>
-      <ul class="nav nav-pills nav-justified">
-        <li class="active"><a data-toggle="pill" href="#IT">I.T.</a></li>
-        <li><a data-toggle="pill" href="#writing">Writing</a></li>
-        <li><a data-toggle="pill" href="#contact"><span class="glyphicon glyphicon-envelope"></span></a></li>
-      </ul>
-</nav>
-</header>
-
-<div class="tab-content">
-	<div id="IT" class="tab-pane fade in active">
-	
-<div class="container-fluid text-center">    
-  <div class="row">
-    <div class="col-sm-6">
-      <a href="freecodecamp_Responsive_Web_Design.png"><img src="freecodecamp_Responsive_Web_Design.png" class="img-responsive" id ="ITthumbnail" alt="Certificate for Responsive Web Design from freecodecamp"></a>
-      <p>Responsive Web Design @ freecodecamp - 13/08/2018</p>
-    </div>
-    <div class="col-sm-6">
-      <a href="KinkyLadyZeugnis.jpeg"><img src="KinkyLadyThumbnail.png" class="img-responsive" id ="ITthumbnail" alt="Reference for job as I.T. Consultant with Kinky Lady"></a>
-      <p>I.T. Consultant @ Kinky Lady (de) - 28/02/2015</p>
-    </div>
-  </div>
-</div>
-
-<div class="container-fluid text-center">    
-  <div class="row">
-  	<div class="col-sm-6"> 
-      <object type="application/x-pdf" title="Prosoz Reference" data="/Prosoz_PraktikumszeugnisA4.pdf?#zoom=85&scrollbar=0&toolbar=0&navpanes=0">
-    		<a href="Prosoz_PraktikumszeugnisA4.pdf"><img src="ProsozThumbnail.png" class="img-responsive " id ="ITthumbnail" alt="PDF of German reference for internship with Prosoz"></a>
-		</object>
-      <p>Internship @ Prosoz (de) - 29/07/2016</p>
-    </div>
-    <div class="col-sm-6"> 
-      <object type="application/x-pdf" title="OU Academic Record" data="/academic-record-q62.pdf?#zoom=85&scrollbar=0&toolbar=0&navpanes=0">
-    		<a href="academic-record-q62.pdf"><img src="ouThumbnail.png" class="img-responsive" id ="ITthumbnail" alt="A record of my modules and academic achievement at the Open University"></a>
-		</object>
-      <p>BSc(Honours) Computing and IT @ The Open University - 17/06/2018(Ongoing)</p>
-    </div>
-    
-  </div>
-</div>
-
-</div>
-
-<div id="writing" class="tab-pane fade">
-	
-	<div class="container-fluid text-center">
-  <div class="row">
-    <div class="col-sm-6">
-      <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" alt="Image">
-      <p>Item Title - Date</p>
-    </div>
-    <div class="col-sm-6"> 
-      <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" alt="Image">
-      <p>Item Title - Date</p>
-    </div>
-  </div>
-</div>
-
-<div class="container-fluid bg-3 text-center">    
-  <div class="row">
-    <div class="col-sm-6">
-      <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" alt="Image">
-      <p>Item Title - Date</p>
-    </div>
-    <div class="col-sm-6">
-      <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" alt="Image">
-      <p>Item Title - Date</p>
-    </div>
-    
-  </div>
-</div>
-
-</div>
-
-<div id="contact" class="tab-pane fade text-center">
-	<h1>Richard Sutton</h1>
-	<img src="richPortrait.jpg" class="img-thumbnail" id="portrait" alt="Photo of portfolio author"><br>
-	<a class="email" href="mailto: [radsutton@hotmail.co.uk]">radsutton@hotmail.co.uk</a>
-	
-
-
-</div>
-</div>
-
-<footer class="container-fluid text-center">
-  <p>Designed by Richard Sutton</p>
-</footer>
 
 </body>
 </html>
